@@ -1,3 +1,3 @@
-from tela_login import App_login
+from app import App
 
-login = App_login()
+app = App()
